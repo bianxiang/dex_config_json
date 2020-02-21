@@ -3,22 +3,22 @@
   "scheme": "S",
   "assets": [
     {
-        "iconUrls": "https://github.com/bianxiang/dexapp_config_json/blob/master/icons/swap_icon.png?raw=true",
+        "iconUrl": "https://github.com/bianxiang/dexapp_config_json/blob/master/icons/swap_icon.png?raw=true",
         "assetId": "WAVES",
         "displayName": "SWAP"
     },
     {
-        "iconUrls": "https://github.com/bianxiang/dexapp_config_json/blob/master/icons/usdt_swap_icon.png?raw=true",
+        "iconUrl": "https://github.com/bianxiang/dexapp_config_json/blob/master/icons/usdt_swap_icon.png?raw=true",
         "assetId": "9m73HmyRqY73ybvRTtzJ88QjSxnNZfazFr7HcbnwC6sn",
         "displayName": "USDT_SWAP"
     },
     {
-        "iconUrls": "https://github.com/bianxiang/dexapp_config_json/blob/master/icons/eth_swap_icon.png?raw=true",
+        "iconUrl": "https://github.com/bianxiang/dexapp_config_json/blob/master/icons/eth_swap_icon.png?raw=true",
         "assetId": "499AkkZCq8wHQiqBhcxNsMBvKspDd1ayS4Vomjh3HBB8",
         "displayName": "ETH_SWAP"
     },
     {
-        "iconUrls": "https://github.com/bianxiang/dexapp_config_json/blob/master/icons/btc_swap_icon.png?raw=true",
+        "iconUrl": "https://github.com/bianxiang/dexapp_config_json/blob/master/icons/btc_swap_icon.png?raw=true",
         "assetId": "DZnM456mTEjWC2RfBt7qqT63czPpRaT7YovVZb7V92DX",
         "displayName": "BTC_SWAP"
     }
