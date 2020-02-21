@@ -1,0 +1,27 @@
+{
+  
+  "scheme": "S",
+  "assets": [
+    {
+        "iconUrls": "xxx.png",
+        "assetId": "WAVES",
+        "displayName": "SWAP"
+    },
+    {
+        "iconUrls": "xxx.png",
+        "assetId": "9m73HmyRqY73ybvRTtzJ88QjSxnNZfazFr7HcbnwC6sn",
+        "displayName": "USDT"
+    },
+    {
+        "iconUrls": "xxx.png",
+        "assetId": "499AkkZCq8wHQiqBhcxNsMBvKspDd1ayS4Vomjh3HBB8",
+        "displayName": "ETH"
+    },
+    {
+        "iconUrls": "xxx.png",
+        "assetId": "DZnM456mTEjWC2RfBt7qqT63czPpRaT7YovVZb7V92DX",
+        "displayName": "BTC"
+    },
+    
+  ]
+}
